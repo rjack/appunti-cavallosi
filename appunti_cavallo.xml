@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!--
+	vim: textwidth=120
+-->
+<article xmlns="http://docbook.org/ns/docbook" version="5.0" xml:lang="it">
+	<info>
+		<author>
+			<personname>
+				<firstname>Giacomo</firstname>
+				<surname>Ritucci</surname>
+			</personname>
+			<email>giacomo.ritucci@email.it</email>
+		</author>
+		<title>Appunti cavallosi</title>
+	</info>
+
+</article>
