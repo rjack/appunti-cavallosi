@@ -34,11 +34,11 @@ $(UTILS_DIR)	:
 	$(MAKE) -C $(UTILS_DIR)
 
 
-$(XHTML_FILE)	: $(XML_FILE)
+$(XHTML_FILE)	: valid $(XML_FILE)
 	xsltproc $(XHTML_XSL) $(XML_FILE) > $(XHTML_FILE)
 
 
-$(FO_FILE)	: $(XML_FILE)
+$(FO_FILE)	: valid $(XML_FILE)
 	xsltproc $(FO_XSL) $(XML_FILE) > $(FO_FILE)
 	fop $(FO_FILE) $(PDF_FILE)
 
