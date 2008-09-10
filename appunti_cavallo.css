@@ -1,0 +1,36 @@
+html {
+}
+
+
+body {
+	max-width: 40em;
+	background-color: #fff;
+	border: 1px solid #444;
+	padding-left: 3em;
+	padding-right: 3em;
+	margin: 1em auto;
+}
+
+
+hr {
+	display: none;
+}
+
+
+.article {
+	background-image: url('img/logo-paddock.png');
+	background-repeat: no-repeat;
+	background-position: top right;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Garamond", "Times New Roman", "Times", "DejaVu Serif", serif;
+	color: #444;
+}
+
+
+.parola-chiave {
+	font-weight: bold;
+	color: #0a0;
+}
