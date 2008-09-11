@@ -153,7 +153,8 @@
 		<section xml:id="tatto">
 			<title>Tatto</title>
 
-			<para>È comodo immaginare il cavallo diviso in due parti, una anteriore e una posteriore.</para>
+			<para>Riguardo al tatto è comodo immaginare il cavallo diviso in due parti, una anteriore e una
+				posteriore.</para>
 
 			<para>La parte anteriore comprende testa, collo, spalle ed è sensibile perchè <emphasis
 					role="parola-chiave">ricca di nervi</emphasis>. Viene associata al <emphasis
@@ -174,10 +175,28 @@
 		LA FISIONOMIA
 	     =================== -->
 
-	<section xml:id="la-fisionomia">
-		<title>La fisionomia</title>
+	<section xml:id="l-anatomia">
+		<title>L'anatomia</title>
 
-		<para>Fisio fisio fisio fisio.</para>
+		<section xml:id="testa">
+			<title>Testa</title>
+			<para></para>
+		</section>
+
+		<section xml:id="collo">
+			<title>Collo</title>
+			<para></para>
+		</section>
+
+		<section xml:id="tronco">
+			<title>Tronco</title>
+			<para></para>
+		</section>
+
+		<section xml:id="arti">
+			<title>Arti</title>
+			<para></para>
+		</section>
 	</section>
 
 
@@ -188,6 +207,19 @@
 	<section xml:id="le-andature">
 		<title>Le andature</title>
 
-		<para>Cloppiti cloppiti cloppiti clo'.</para>
+		<section xml:id="passo">
+			<title>Passo</title>
+			<para></para>
+		</section>
+
+		<section xml:id="trotto">
+			<title>Trotto</title>
+			<para></para>
+		</section>
+
+		<section xml:id="galoppo">
+			<title>Galoppo</title>
+			<para></para>
+		</section>
 	</section>
 </article>
