@@ -76,9 +76,53 @@
 		<section xml:id="udito">
 			<title>Udito</title>
 
-				<para>Il cavallo è in grado di <emphasis role="parola-chiave">muovere
-						indipendentemente</emphasis> le orecchie e quindi può rivolgere
-					l'attenzione a due sorgenti di rumore poste in posizioni differenti.</para>
+			<para>Il cavallo è in grado di <emphasis role="parola-chiave">muovere
+					indipendentemente</emphasis> le orecchie e quindi può rivolgere l'attenzione a
+				due sorgenti di rumore poste in posizioni differenti.</para>
+
+			<para>Le orecchie <emphasis role="parola-chiave">comunicano</emphasis> lo stato d'animo:
+				<itemizedlist>
+					<listitem>
+						<simpara>drizzate e rivolte in avanti: qualcosa ha richiamato la sua
+							attenzione;</simpara>
+					</listitem>
+
+					<listitem>
+						<simpara>rivolte all'indietro: positivo, sta ascoltando il cavaliere
+							(altri dicono negativo, si sta distraendo dal
+							percorso);</simpara>
+					</listitem>
+
+					<listitem>
+						<simpara>incappucciato (orecchie piegate all'indietro, aderenti alla
+							nuca): arrabbiato, meglio stare alla larga;</simpara>
+					</listitem>
+
+					<listitem>
+						<simpara>flosce, molli: molto rilassato.</simpara>
+					</listitem>
+				</itemizedlist>
+			</para>
+		</section>
+
+		<section xml:id="olfatto">
+			<title>Olfatto</title>
+
+			<para>L'olfatto è molto sviluppato, ed è utilizzato per <emphasis
+					role="parola-chiave">riconoscere</emphasis> e <emphasis
+					role="parola-chiave">confermare</emphasis> praticamente qualsiasi elemento
+				dell'ambiente circostante: dal cibo alle feci, dagli altri cavalli agli esseri
+				umani.</para>
+
+			<important>
+				<para>Bisogna <emphasis role="parola-chiave">lasciarsi annusare</emphasis> quando ci si
+					avvicina a un cavallo! Si dà segno che si è disposti a rapportarsi con lui. È il
+					primo contatto ed è importante che sia positivo.</para>
+
+				<para><emphasis role="parola-chiave">Non cambiare profumo</emphasis> o deodorante
+					spesso, soprattutto se intenso! Il cavallo ci ricorda anche attraverso il nostro
+					odore ed è meglio non confonderlo.</para>
+			</important>
 		</section>
 	</section> <!-- i cinque sensi -->
 
