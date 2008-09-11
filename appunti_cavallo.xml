@@ -29,8 +29,18 @@
 		<title>Appunti cavallosi</title>
 	</info>
 
+
+	<!-- ====================
+		I CINQUE SENSI
+	     ==================== -->
+
 	<section xml:id="i-cinque-sensi">
 		<title>I cinque sensi</title>
+
+
+		<!-- ===========
+			VISTA
+		     =========== -->
 
 		<section xml:id="vista">
 			<title>Vista</title>
@@ -73,6 +83,11 @@
 				deve stare sempre all'erta.</para>
 		</section>
 
+
+		<!-- ===========
+			UDITO
+		     =========== -->
+
 		<section xml:id="udito">
 			<title>Udito</title>
 
@@ -105,6 +120,11 @@
 			</para>
 		</section>
 
+
+		<!-- =============
+			OLFATTO
+		     ============= -->
+
 		<section xml:id="olfatto">
 			<title>Olfatto</title>
 
@@ -124,11 +144,50 @@
 					odore ed è meglio non confonderlo.</para>
 			</important>
 		</section>
-	</section> <!-- i cinque sensi -->
 
-	<section>
-		<title>Le andature</title>
-		<para>Cloppiti cloppiti cloppiti clo'.</para>
+
+		<!-- ===========
+			TATTO
+		     =========== -->
+
+		<section xml:id="tatto">
+			<title>Tatto</title>
+
+			<para>È comodo immaginare il cavallo diviso in due parti, una anteriore e una posteriore.</para>
+
+			<para>La parte anteriore comprende testa, collo, spalle ed è sensibile perchè <emphasis
+					role="parola-chiave">ricca di nervi</emphasis>. Viene associata al <emphasis
+					role="parola-chiave">ragionamento</emphasis>.</para>
+
+			<para>I baffi <footnote><para>è giusto definirli così?</para></footnote> sul muso del cavallo
+				sono strumenti tattili molto sensibili, simili alle vibrisse dei gatti.</para>
+
+			<para>La parte posteriore è meno sensibile ed è associata all'<emphasis
+					role="parola-chiave">instinto</emphasis>, alla <emphasis
+					role="parola-chiave">fuga</emphasis> e alla <emphasis
+					role="parola-chiave">difesa</emphasis>.</para>
+		</section>
+	</section> <!-- /i cinque sensi -->
+
+
+	<!-- ===================
+		LA FISIONOMIA
+	     =================== -->
+
+	<section xml:id="la-fisionomia">
+		<title>La fisionomia</title>
+
+		<para>Fisio fisio fisio fisio.</para>
 	</section>
 
+
+	<!-- =================
+		LE ANDATURE
+	     ================= -->
+
+	<section xml:id="le-andature">
+		<title>Le andature</title>
+
+		<para>Cloppiti cloppiti cloppiti clo'.</para>
+	</section>
 </article>
