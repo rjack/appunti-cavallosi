@@ -160,8 +160,14 @@
 					role="parola-chiave">ricca di nervi</emphasis>. Viene associata al <emphasis
 					role="parola-chiave">ragionamento</emphasis>.</para>
 
-			<para>I baffi <footnote><para>è giusto definirli così?</para></footnote> sul muso del cavallo
-				sono strumenti tattili molto sensibili, simili alle vibrisse dei gatti.</para>
+			<para>Le <emphasis role="parola-chiave">vibrisse</emphasis> sul muso del cavallo sono strumenti
+				tattili molto sensibili, simili a quelle dei gatti.</para>
+
+			<important>
+				<para><emphasis role="parola-chiave">Non tagliare</emphasis> le vibrisse ai cavalli!
+					Molti le considerano antiestetiche, ma sono loro indispensabili per sentire gli
+					oggetti molto vicini.</para>
+			</important>
 
 			<para>La parte posteriore è meno sensibile ed è associata all'<emphasis
 					role="parola-chiave">instinto</emphasis>, alla <emphasis
@@ -171,9 +177,9 @@
 	</section> <!-- /i cinque sensi -->
 
 
-	<!-- ===================
-		LA FISIONOMIA
-	     =================== -->
+	<!-- ================
+		L'ANATOMIA
+	     ================ -->
 
 	<section xml:id="l-anatomia">
 		<title>L'anatomia</title>
